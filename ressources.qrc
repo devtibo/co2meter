@@ -12,5 +12,6 @@
         <file>icons/icon_3_6OVER.png</file>
         <file>icons/icon_2_6OVER.png</file>
         <file>icons/icon_1_6OVER.png</file>
+        <file>screenshots/screenshot.png</file>
     </qresource>
 </RCC>

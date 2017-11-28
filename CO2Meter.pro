@@ -36,5 +36,6 @@ RESOURCES += \
     ressources.qrc
 
 DISTFILES += \
-    NOTES
+    NOTES \
+    LICENSE
 
