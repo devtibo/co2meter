@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/icon_6_6.png</file>
+        <file>icons/icon_5_6.png</file>
+        <file>icons/icon_4_6.png</file>
+        <file>icons/icon_3_6.png</file>
+        <file>icons/icon_2_6.png</file>
+        <file>icons/icon_1_6.png</file>
+        <file>icons/icon_6_6OVER.png</file>
+        <file>icons/icon_5_6OVER.png</file>
+        <file>icons/icon_4_6OVER.png</file>
+        <file>icons/icon_3_6OVER.png</file>
+        <file>icons/icon_2_6OVER.png</file>
+        <file>icons/icon_1_6OVER.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,9 @@
+==== BUGS ===
++ Tracer go on step afet the graph awhen reached full buffer length
+
+===== TODO ===
++ Possitbility to change refreshRate and veiw range
++ allow to Zoom
++ allow change xAxis range
++ allow change warning level
++ allow change grzph color codes and zones
