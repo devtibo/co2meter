@@ -13,5 +13,8 @@
         <file>icons/icon_2_6OVER.png</file>
         <file>icons/icon_1_6OVER.png</file>
         <file>screenshots/screenshot.png</file>
+        <file>screenshots/screenshotTrayMessage.png</file>
+        <file>screenshots/screenshotTray.png</file>
+        <file>screenshots/screenshotAlert.png</file>
     </qresource>
 </RCC>

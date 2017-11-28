@@ -175,7 +175,7 @@ void MainWindow::readData()
     QByteArray data = serial->readAll(); // Read response
     unsigned int co2Value = ((int)data.at(3) * 256 + (int)data.at(4)); // Convert to CO2 ppm
 #else
-    unsigned int co2Value = 1000;
+    unsigned int co2Value = 1800;
 #endif
 
     // Fill buffer
